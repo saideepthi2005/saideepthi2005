@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Sai Deepthi
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me by linkedin
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: The human brain is composed of roughly 73% water
+* 👋 Hi, I’m Sai Deepthi
+* 👀 I’m interested in Data Analysis, Machine Learning, and solving real-world problems using data
+* 💼 I have skills in Python, SQL, Power BI, and Data Visualization techniques
+* 💞️ I’m looking to collaborate on Data Analysis projects and open-source datasets on GitHub
+* 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/sai-deepthi-pattapu-631605297)
+* 😄 Pronouns: she/her
+* ⚡ Fun fact: I love turning raw data into meaningful insights
+
 
 <!---
 saideepthi2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
